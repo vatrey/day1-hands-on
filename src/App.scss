@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#grid {
+    justify-content: center;
+}
+#app-head {
+    margin: auto;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+.head {
+    height: 4rem;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    margin-bottom: 1rem;
+}
+.foot{
+    height: 4rem;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    margin-top: 2rem;
+}
